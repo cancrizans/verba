@@ -1,0 +1,9 @@
+{
+  "name": "com.bad_vertex.verba",
+  "version": "0.1.0",
+  "description": "A vertex colour baker for lighting and textures for low poly meshes, oriented to lightmapping static geometry.",
+  "displayName": "VerBa",
+  "author": {
+    "name": "bad_vertex"
+  }
+}
